@@ -1,0 +1,7 @@
+interface:
+  display_name: "Refine Coding Prompt"
+  short_description: "Rewrite rough requests into clear AI coding prompts."
+  default_prompt: "Use $refine-coding-prompt to rewrite my rough coding request into a clear, structured prompt; infer Target_Model_Type unless I specify Reasoning or Standard."
+
+policy:
+  allow_implicit_invocation: true

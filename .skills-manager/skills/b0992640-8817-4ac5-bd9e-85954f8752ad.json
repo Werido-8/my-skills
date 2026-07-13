@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b0992640-8817-4ac5-bd9e-85954f8752ad",
+  "path": "refine-coding-prompt",
+  "path_key": "refine-coding-prompt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

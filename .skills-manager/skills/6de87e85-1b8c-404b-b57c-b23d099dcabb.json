@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6de87e85-1b8c-404b-b57c-b23d099dcabb",
+  "path": "gpt-image2-ppt",
+  "path_key": "gpt-image2-ppt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
