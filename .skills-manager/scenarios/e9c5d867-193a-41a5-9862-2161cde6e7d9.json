@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "scenario_id": "e9c5d867-193a-41a5-9862-2161cde6e7d9",
-  "name": "Default",
+  "name": "前端设计",
   "description": "Default startup scenario",
-  "icon": null,
+  "icon": "briefcase",
   "sort_order": 0
 }

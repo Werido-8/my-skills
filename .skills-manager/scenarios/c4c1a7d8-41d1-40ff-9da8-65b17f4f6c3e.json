@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "c4c1a7d8-41d1-40ff-9da8-65b17f4f6c3e",
+  "name": "PPT",
+  "description": "创建PPT",
+  "icon": "book-open",
+  "sort_order": 999
+}
